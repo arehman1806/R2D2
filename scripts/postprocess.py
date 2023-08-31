@@ -87,6 +87,12 @@ REGISTERED_MEMBERS: Dict[str, Dict[str, str]] = {
         "Heng Wei": "4f8ca688",
         "Albert Zhan": "de601749",
     },
+    "RAD": {
+        "Peter Fagan": "62828209",
+        "Abdul Rehman": "c6cf6b42",
+        "Jack Rome": "284fa481",
+        "Aditya Kamireddypalli": "ac111655",
+    }
 }
 validate_user2id(REGISTERED_MEMBERS)
 
